@@ -1,7 +1,3 @@
----
-typora-root-url: ./img
----
-
 # os-file-manage-system
 This is the repository for my OS work FileManageSystem. 
 
@@ -13,7 +9,7 @@ Please **fork** the repository and modify it by yourself, at last I will merge y
 
 This is some help code for you git usage:
 
-![1](/gitcode.jpeg)
+![1](./img/gitcode.jpeg)
 
 
 
