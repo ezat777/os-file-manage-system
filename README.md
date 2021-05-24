@@ -9,7 +9,7 @@ Please **fork** the repository and modify it by yourself, at last I will merge y
 
 This is some help code for you git usage:
 
-![1](./img/gitcode.jpeg)
+![code](./img/gitcode.jpeg)
 
 
 
